@@ -1,0 +1,3 @@
+# useless-program
+
+ok 
